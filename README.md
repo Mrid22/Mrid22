@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning web developement and nix/nixos
 - 📫 How to reach me: mridulaga@outlook.com/mridul16381@gmail.com/mridul16381@proton.me
 - 😄 Pronouns: whatever
-- ⚡ Fun fact: I am a high schooler
+- ⚡ Fun fact: Google alone has had around 3 data breaches in the last decade, ad they expect me to trust them with my data
+
+### Skills
+![Python Logo](https://jumpshare.com/s/xCzqg810iTUeZHdfvz1A "Python")
 
 <!---
 Mrid22/Mrid22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
