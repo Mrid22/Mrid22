@@ -6,7 +6,7 @@
 - 😄 Pronouns: whatever, as long as I can tell you're trying to talk to me
 - ⚡ Fun fact: Google alone has had around 3 data breaches in the last decade, and they expect me to trust them with my data
 
-# Ⓐ |-/
+#  |-/ Ⓐ
 
 [Coolest website on the planet (contact me for an invite code) ](https://www.riseup.net)
 
